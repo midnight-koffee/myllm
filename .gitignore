@@ -1,0 +1,24 @@
+﻿# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Data and outputs (DO NOT COMMIT THESE TO GIT)
+data/
+outputs/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints (large files)
+*.pt
+*.pth
+*.bin
