@@ -1,0 +1,8 @@
+{
+    "n_embd": 128,
+    "n_head": 4,
+    "n_layer": 3,
+    "block_size": 128,
+    "vocab_size": 50257,
+    "dropout": 0.2
+  }
